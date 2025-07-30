@@ -1,3 +1,4 @@
+```
 @echo off
 setlocal EnableDelayedExpansion
 
@@ -32,3 +33,6 @@ echo [5] start NodeRED
 start "" "%APPDATA%\npm\node-red.cmd"
 
 endlocal
+
+
+```
